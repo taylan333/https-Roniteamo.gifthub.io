@@ -11,7 +11,7 @@
     </header>
     <nav>
     <ul>
-       <li><a href="#">Pagina Inicial</a></li>
+       <li><a href="#">Ela não volta mais</a></li>
        <li><a href="#">Boi</a></li>
        <li><a href="#">A duda n te ama</a.</li>
    </ul>
@@ -20,6 +20,5 @@
        <img src="WhatsApp Image 2024-03-31 at 17.09.39.jpeg" alt="gostou Roni?">
     </main>
     <footer>
-    index.html
         <p>&copy; 2024 Roni Boi</p>
     </fooster>
